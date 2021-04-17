@@ -1,7 +1,7 @@
 {
   "name": "ticket-bot",
   "version": "1.0.0",
-  "description": "A Discord Ticket bot to handle ticketing in your server. This bot also used MongoDB!",
+  "description": "A Discord Ticket bot to handle ticketing in your server. This bot Doesn't require a database!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
