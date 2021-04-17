@@ -22,7 +22,8 @@ If you liked this repository, feel free to leave a star ⭐!
 
 ## Features
 
-You can run `t!create <channel>` To set it up, users also have the ability to close the ticket!
+You can run `t!create <channel>` To set it up.<br>
+Users also have the ability to close the ticket!<br>
 You can even customise everything from the `config.json` file.
 
 ## Installation
