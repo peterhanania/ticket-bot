@@ -1,0 +1,28 @@
+{
+  "name": "ticket-bot",
+  "version": "1.0.0",
+  "description": "A Discord Ticket bot to handle ticketing in your server. This bot also used MongoDB!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterhanania/ticket-bot.git"
+  },
+  "keywords": [
+    "ticket-bot-discord"
+  ],
+  "author": "Peter Hanania",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peterhanania/ticket-bot/issues"
+  },
+  "homepage": "https://github.com/peterhanania/ticket-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^5.12.4"
+  }
+}
