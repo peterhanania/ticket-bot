@@ -9,8 +9,8 @@ module.exports = class extends Event {
 
     
     const activities = [
-      { name: `${config.bot_name || 'Reaction Roles Bot'}`, type: 'WATCHING' }, 
-      { name: 'github.com/peterhanania/reaction-roles', type: 'WATCHING' }
+      { name: `${config.bot_name || 'Ticket bot'}`, type: 'WATCHING' }, 
+      { name: 'github.com/peterhanania/ticket-bot', type: 'WATCHING' }
     ];
   
 
